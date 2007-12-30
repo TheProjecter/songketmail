@@ -23,4 +23,4 @@ Refer Wiki page BayesianMySqlSkeletonTables for the skeleton MySql SQL.
 
 Refer Wiki page BayesianMySqlCf for bayesian-mysql.cf
 
-Refer Wiki page BayesianMySqlSpamassassinCf for bayesian-mysql-mysql.cf
+Refer Wiki page BayesianMysqlSpamassassinCf for bayesian-mysql-mysql.cf
