@@ -2,7 +2,7 @@
 
 = Introduction =
 
-MySql SQL to be used when creating skeleton tables for bayesianmysql.
+MySql SQL to be used when creating skeleton tables for bayesianmysql. Wiki page BayesianMySql.
 
 
 = Details =
