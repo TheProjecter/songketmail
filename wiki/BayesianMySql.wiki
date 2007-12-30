@@ -18,3 +18,4 @@ linuxmalaysia @ gmail.com
 linuxmalaysia @ harisfazillah.info
 
 Refer Wiki page BayesianMySqlCode for the spec rpm.
+Refer Wiki page BayesianMySqlSkeletonTables for the skeleton MySql SQL.
