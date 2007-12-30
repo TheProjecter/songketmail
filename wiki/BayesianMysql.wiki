@@ -1,5 +1,4 @@
 #summary Introduction to Bayesian-MySql.
-#labels Featured
 
 = Introduction =
 
