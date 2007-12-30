@@ -1,0 +1,18 @@
+#summary Introduction to Bayesian-MySql.
+#labels Featured
+
+= Introduction =
+
+This will installed Bayesian with Mysql for Spamassassin. Already with sa-learn dataset.
+Bayesian and whitelist using mysql.
+
+Part of this SPEC from
+http://www200.pair.com/mecham/spam/debian-spamassassin-sql.html
+
+Harisfazillah Jamel
+30 Dec 2007
+
+For SongketMailFilter http://songketmail.harisfazillah.info/
+
+linuxmalaysia @ gmail.com
+linuxmalaysia @ harisfazillah.info
