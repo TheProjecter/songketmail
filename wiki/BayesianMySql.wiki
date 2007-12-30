@@ -16,3 +16,5 @@ For SongketMailFilter http://songketmail.harisfazillah.info/
 
 linuxmalaysia @ gmail.com
 linuxmalaysia @ harisfazillah.info
+
+Refer Wiki page BayesianMySqlCode for the spec rpm.
