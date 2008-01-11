@@ -1,4 +1,6 @@
+#summary Bayesian Mysql SPEC RPM Guide
 #labels Phase-Implementation
+
 =Bayesian SpamAssassin MySQL SPEC RPM=
 
 Internet links :
