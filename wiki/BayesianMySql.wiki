@@ -9,6 +9,8 @@ Bayesian and whitelist using mysql.
 Part of this SPEC from
 http://www200.pair.com/mecham/spam/debian-spamassassin-sql.html
 
+Sourceforge copy http://songketmail.wiki.sourceforge.net/bayesian-mysql
+
 Harisfazillah Jamel
 30 Dec 2007
 
