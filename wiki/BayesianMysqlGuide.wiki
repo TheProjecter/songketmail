@@ -82,6 +82,8 @@ http://code.google.com/p/songketmail/wiki/BayesianMysqlSpamassassinCf
 
 http://songketmail.wiki.sourceforge.net/bayesian-mysql-mysql.cf
 
+Remember to change password as per your site or item 2.
+
 ===(5) You need at least to trained spamassassin one ham and spam email using sa-learn.===
 
 Spamassassin Public Corpus can be used if you don't have any examples.
