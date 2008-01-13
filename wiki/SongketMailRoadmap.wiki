@@ -1,5 +1,5 @@
 #summary SongketMail Version 1 project roadmap
-#labels Phase-Requirements
+#labels Phase-Requirements,Featured
 
 =SongketMail Version 1 Project Roadmap=
 
@@ -39,6 +39,7 @@ An automation solution using RPM and YUM to configure and customization of spam 
 
 Spamassassin Using Bayesian MySQL http://spamassassin.apache.org/
 - Spam identify program
+Refer to Wikipage BayesianMySql
 
 MailScanner http://www.mailscanner.info/
 - Anti-virus and anti-spam filter
