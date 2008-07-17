@@ -1,12 +1,14 @@
 #summary NagiosQL 2.0.2 RPM For Centos 5. This RPM will help you to install NagiosQL 2.0.2. It's tested with Centos 5.2 and should be working with Fedora and Red Hat Enterprise 5. This RPM include nagios 2.11 configuration files that already configure for nagiosQL.
 #labels Phase-Deploy,Phase-Implementation,Featured
 
+=NagiosQL 2.0.2 RPM For Centos 5=
+
 In the Internet
 http://linuxmalaysia.harisfazillah.info/2008/07/nagiosql-202-rpm-for-centos-5.html
 
 This RPM include nagios 2.11 configuration files that already configure for nagiosQL.
 
-== (A) Introduction ==
+==(A) Introduction==
 
 This RPM will help you to install NagiosQL 2.0.2. It's tested with Centos 5.2 and should be working with Fedora and Red Hat Enterprise 5. This RPM include nagios 2.11 configuration files that already configure for nagiosQL.
 
@@ -17,7 +19,7 @@ http://www.nagiosql.org/
 It's base on this tutorial
 http://nagioswiki.com/wiki/index.php/Nagios_and_NagiosQL_on_CentOS_4.x
 
-(B) Prerequisites
+==(B) Prerequisites==
 
 We assume Linux Centos 5.2 already installed. The iso for CD and DVS can be download here
 
@@ -58,7 +60,7 @@ or from
 
 rpm -Uvh http://dag.wieers.com/rpm/packages/rpmforge-release/rpmforge-release-0.3.6-1.el5.rf.i386.rpm
 
-(C) Installation
+==(C) Installation==
 
 Download this rpm nagiosql-2.0.2-1.centos5.noarch.rpm
 
@@ -87,13 +89,13 @@ htpasswd /etc/nagios/htpasswd.users admin
 To access nagios 2.10 from web browser type http://localhost/nagios
 To access nagiosQL 2.0.2 from web browser type http://localhost/nagiosQL
 
-(D) Source
+==(D) Source==
 
 The source RPM can be view here
 
 http://knowledge.oscc.org.my/practice-areas/system-administration/network/nagiosql-rpms/view
 
-(E) Credit
+==(E) Credit==
 
 Just Do IT Team (JDIT) from http://forum.pmo.gov.my/
 
