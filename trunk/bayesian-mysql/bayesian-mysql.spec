@@ -7,6 +7,7 @@ License: GPL
 Vendor: Harisfazillah Jamel and LinuxDotMy
 Packager: Harisfazillah Jamel <linuxmalaysia@harisfazillah.info>
 Group: Development/Tools
+URL: http://www.songketmail.org/
 BuildArchitectures: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 Requires: spamassassin, mysql, mysql-server >= 4.1.3 , perl-DBI, perl-DBD-MySQL, perl-Net-Daemon, perl-libwww-perl
@@ -141,4 +142,3 @@ rm /etc/cron.daily/awlcleanup.sh
 * Sun Dec 30 2007 Harisfazillah Jamel <linuxmalaysia@harisfazillah.info>
 - version 0.0.1 for Centos RedHat Fedora
 - fork oscc-bayesian version beta 0.0.2
-
