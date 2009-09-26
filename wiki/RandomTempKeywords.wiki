@@ -1,5 +1,5 @@
+#summary Bash shell script For producing random keywords for temporary password
 #labels Phase-Design
-#For producing random keywords for temporary password
 
 = Introduction =
 
