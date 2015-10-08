@@ -1,0 +1,26 @@
+# Introduction #
+
+Used this file as bayesian-mysql.cf and bayesian-mysql-mysql.cf and put them in /etc/mail/spamassassin
+
+
+# Details #
+
+```
+
+# Bayes by
+# Harisfazillah Jamel
+# This cf for any reason MySql not working
+# 25 Oct 2007 v2
+
+bayes_path /usr/share/spam-global/bayes
+bayes_file_mode 0644
+
+# Enable the Bayes system
+use_bayes               1
+
+# Enable Bayes auto-learning
+bayes_auto_learn 1
+
+
+
+```
